@@ -33,6 +33,8 @@ dependencies:
   just_audio: ^0.10.2  # Check for the latest version on pub.dev
   provider: ^6.1.5  
   audio_session: ^0.2.1
+  share_plus: ^11.0.0
+  shared_preferences: ^2.5.3
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
@@ -52,6 +54,6 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   uses-material-design: true
-  
+
   assets:
     - assets/surah_data.json
